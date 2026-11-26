@@ -1,3 +1,7 @@
+[![make.fun · u-0xb3e689-one-star-review-of-something-essential-c7234629](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-one-star-review-of-something-essential-c7234629)
+[![rank](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/adheyusuf230801-ship-it/u-0xb3e689-one-star-review-of-something-essential-c7234629-codex/rank.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-one-star-review-of-something-essential-c7234629)
+[![reward](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/adheyusuf230801-ship-it/u-0xb3e689-one-star-review-of-something-essential-c7234629-codex/reward.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-one-star-review-of-something-essential-c7234629)
+
 # One-Star Review of Something Essential
 
 A make.fun bounty entry: one earnest complaint about water, delivered in one line.
